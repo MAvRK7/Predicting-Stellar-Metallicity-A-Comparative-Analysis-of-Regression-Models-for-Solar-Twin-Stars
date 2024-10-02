@@ -28,3 +28,5 @@ Stellar metallicity is an important, commonly measured parameter, usually repres
 
 My contribution:
 I developed the code for Gradient Boosting, data handling and comparison of the developed model with existing literature.
+
+This work has been submitted to the Experimental Astronomy Springer Journal
